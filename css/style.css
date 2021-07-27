@@ -1,0 +1,85 @@
+#logo{
+	margin: 0.5%;
+	margin-left: 13.75%;
+}
+#dropdown{
+	color: white;
+	width: 57px;
+	height: 23px;
+	margin-left: 30px;
+    padding-left: 1px;
+    border: 1px solid #212121;
+    border-radius: 5px;
+    background: rgba(0,0,0,0.1);
+    font-size: 10px;
+}
+#signin{
+    color: white;
+	width: 57px;
+	height: 23px;
+	margin-left: 85px;
+    padding-left: 1px;
+    border: 1px solid #212121;
+    border-radius: 5px;
+    background: rgba(0,0,0,0.1);
+    font-size: 10px;
+}
+.glyph{
+	font-size: 19px;
+	color: white;
+	margin-left: 23%;
+	color: grey;
+}
+#download{
+	margin-left: 3%;
+	border: 2px solid black;
+	border-radius: 5px;
+	width: 17%;
+	font-size: 11px;
+}
+#img1{
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.nav1{
+	margin-left: 18%;
+}
+.nav2{
+	margin-left: 14%;
+}
+.marh3{
+	margin-left: 18%;
+	color: white;
+}
+#dateStyle{
+	margin-left: 18%;
+	width: 18%;
+	float: left;
+}
+#priceStyle{
+	width: 22%;
+	margin-left: 12px;
+	float: left;
+}
+.nav3{
+	margin-left: 10%;
+}
+.nav4{
+	margin-left: 17%;
+}
+.nav5{
+	margin-left: 8%;
+}
+.readmoreBTN{
+	width: 13%;
+	margin-left: 8%;
+}
+.h5style{
+	background-color:
+	grey; width: 17%;
+}
+.hrstyle{
+	background-color: grey;
+	height: 0.1px;
+	width: 70%;
+}
